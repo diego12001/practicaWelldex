@@ -1,0 +1,37 @@
+body {
+  background-color: #e9ecef; /* Gris claro */
+}
+
+.card {
+  background-color: #f8f9fa; /* Gris muy claro */
+  border: none;
+  border-radius: 10px;
+}
+
+.card h3 {
+  color: #004080; /* Azul marino */
+}
+
+.btn-primary {
+  background-color: #004080;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #003060;
+}
+
+.form-control {
+  background-color: #dee2e6;
+  border: 1px solid #ced4da;
+}
+
+.form-control:focus {
+  background-color: #dee2e6;
+  border-color: #004080;
+  box-shadow: none;
+}
+
+label {
+  color: #495057;
+}
